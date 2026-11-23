@@ -13,7 +13,9 @@ I'm a developer based in Ferney-Voltaire, France, focused on AI-powered applicat
 - LLM integrations, automated testing and deployment
 - Commercial web development with React and TypeScript
 
-*Vetiks source code is private. A public technical showcase is planned.*
+*Vetiks is commercial proprietary software. The source code is private.
+
+🔗 [View Vetiks Technical Showcase](https://github.com/takeTheSheep/vetiks-showcase)*
 
 ### 🛠️ Tech Stack
 **Backend:** Python, FastAPI, Flask, PostgreSQL, Redis, Docker
